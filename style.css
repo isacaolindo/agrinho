@@ -1,0 +1,85 @@
+.mj{
+    background-color: rgb(0, 247, 0);
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+    text-align: center;
+}
+
+.c30{
+    background-color: rgb(0, 132, 255);
+    color: rgb(11, 248, 42);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+    text-align: center;
+}
+
+.lebron{
+    background-color: yellow;
+    color: rgb(14, 46, 114);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;    
+    text-align: center;
+}
+
+.Harden{
+    background-color: rgb(243, 239, 239);
+    color: rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+    text-align: center;
+
+}
+
+.Harden img{
+    width: 650px;
+    border-color: rgb(0, 0, 0);
+}
+
+.lebron img{
+    width: 500px;
+    border-color: yellow;
+}
+
+.mj img{
+    width: 750px;
+    border-color: rgb(0, 247, 0);
+}
+
+.mj23{
+    background-color: rgb(0, 24, 243);
+}
+
+.m{
+background-color: rgb(0, 24, 243);
+}
+.j{
+    background-color: rgb(255, 255, 255);
+}
+
+img{
+    border-width: 6px;
+    border-radius: 20px;
+    border-style: solid;
+}
+.curry{
+background-color: gold;
+}
+.c{
+    background-color: white;
+}
+.s{
+    background-color: goldenrod
+}
+.james{
+    background-color: white;
+}
+.lbj{
+    background-color: rgb(255, 217, 0);
+}
+.h{
+    background-color: rgb(22, 224, 140);
+}
+.jh13{
+    background-color: darkred;
+}
